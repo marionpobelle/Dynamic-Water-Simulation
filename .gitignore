@@ -1,0 +1,85 @@
+
+# Apps
+*.app/
+ 
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Tt]emp.meta
+[Oo]bj/
+[Bb]uild
+[Bb]uilds/
+[Ll]ibrary/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+Assets/AssetStoreTools*
+
+# Probuilder
+Assets/ProBuilder Data/
+Assets/ProBuilder Data.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln
+/*.user
+/*.unityproj
+/*.booproj
+/*.opendb
+/*.VC.db
+/*.pdb
+/*.svd
+/*.tmp
+/*.consulo/
+
+# Visual Studio cache directory
+/.vs/
+
+# Visual Studio (Code)
+.vscode 
+.vsconfig
+
+# Gradle cache directory
+.gradle/
+
+# Windows
+Thumbs.db
+Thumbs.db.meta
+
+# MacOS
+*.DS_Store
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+!Icon?/
+ehthumbs.db
+[Tt]humbs.db
