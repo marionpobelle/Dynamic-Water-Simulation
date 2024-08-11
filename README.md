@@ -1,4 +1,4 @@
-# Dynamic-Water-Simulation
+# Dynamic Water Simulation
 
 ## Summary
 
